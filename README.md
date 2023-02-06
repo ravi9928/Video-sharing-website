@@ -1,4 +1,4 @@
 # Video-sharing-website
 # Technologies 
-**Java , Jsp ( java servelet pages)
-**html, css, jquery
+**Java , Jsp ( java servelet pages)**
+**html, css, jquery**
